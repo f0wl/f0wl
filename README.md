@@ -16,3 +16,8 @@
 <a href="https://www.linkedin.com/in/marius-genheimer"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
  <a href="https://dissectingmalwa.re"><img src="https://img.shields.io/badge/Blog-dissectingmalwa.re-brightgreen" alt="Blog"></a> 
 </p>
+
+### Stats 📈📊
+
+[![f0wL's github stats](https://github-readme-stats.vercel.app/api?username=f0wl&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f0wl&theme=dark&layout=compact))](https://github.com/anuraghazra/github-readme-stats)
