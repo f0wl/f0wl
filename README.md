@@ -20,4 +20,4 @@
 ### Stats 📈📊
 
 [![f0wL's github stats](https://github-readme-stats.vercel.app/api?username=f0wl&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f0wl&theme=dark&layout=compact))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f0wl&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
